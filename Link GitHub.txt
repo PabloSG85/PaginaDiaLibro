@@ -1,5 +1,2 @@
-Link W3Spaces
-https://dia-libro-pablo.w3spaces.com/
-
 Link GitHub
 https://github.com/PabloSG85/PaginaDiaLibro.git
