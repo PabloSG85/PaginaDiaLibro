@@ -46,3 +46,7 @@ h3 {
     height: 400px;
     background-size: cover;
 }
+#reloj{
+    text-align: center;
+    color: purple;
+}
